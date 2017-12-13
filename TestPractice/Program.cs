@@ -17,6 +17,8 @@ namespace TestPractice
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());//venkat testing1
+            Apllication.ewwwn();
+            Application.ewrwetr5();
         }
     }
 }
