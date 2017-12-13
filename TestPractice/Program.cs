@@ -18,11 +18,11 @@ namespace TestPractice
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());//venkat testing1
             /reyteyrt
-            Apllication.ewwwn();
+            
             //fkdjgkdfsjgkfdjs
             //dsfertewrywretyw
             //gdsfgdsfg
-            Application.ewrwetr5();
+            
             /dsfdsfgfdg
         }
     }
